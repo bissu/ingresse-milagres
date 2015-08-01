@@ -1,0 +1,94 @@
+.clear {clear:both;}
+
+img.wp-smiley, img.emoji {
+  display: inline !important;
+  border: none !important;
+  box-shadow: none !important;
+  height: 1em !important;
+  width: 1em !important;
+  margin: 0 .07em !important;
+  vertical-align: -0.1em !important;
+  background: none !important;
+  padding: 0 !important;
+}
+
+@media screen and (min-width: 768px) { .comment-container { margin-left: 100px; } }body, textarea, select, select optgroup, select optgroup option, input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="email"], input[type="month"], input[type="number"], input[type="password"], input[type="search"], input[type="tel"], input[type="text"], input[type="time"], input[type="url"], input[type="week"], .hungry-slogan-text span, .hungry-staff-member-role, .hungry-open-table .open-table-widget button.btn {font-family: "Titillium Web", Georgia, serif; }body {font-size: 15px;font-weight: 400;line-height: 26px;color: #78796c;}h1, h2, h3, h4, h5, h6, dt, legend, label, .widget_calendar caption, .section-heading-subtitle, .sf-menu a, .breadcrumb-trail, .breadcrumb-trail a, .post-date-fixed time, .post-navigation a, .navigation.pagination a, .navigation.comment-navigation a, .edit-link a, .comment-reply-link, .hungry-button, .hungry-testimonial cite, .hungry-blog-author, .hungry-blog-date, .hungry-open-table .open-table-widget .otw-pre-form-content, .hungry-open-table .open-table-widget .otw-post-form-content, #cboxTitle, #cboxCurrent {font-family: "Open Sans", Verdana, Geneva, sans-serif;}h1, h2, h3, h4, h5, h6 {font-weight: 400;text-transform: uppercase;letter-spacing: 2px;color: #a56a35;}.hungry-dropcap, .single-page-header-text .tlt, .section-heading-title, .page-title, .not-found-title {font-family: "Love Ya Like A Sister", Verdana, Geneva, sans-serif;}a, label span, .hungry-dropcap, .fa-ul i:before, .form-title span em, .section-heading-title, .section-heading-alt-title span, .header-text-pre-slogan em, .breadcrumb-trail a:hover, .post-meta a:hover, .post-title a:hover, .widget ul li:before, .widget ul li a:hover, .comment-author-name a:hover, .hungry-slogan-text em, .hungry-staff-member-role, .hungry-staff-member-social-icons li a:hover i:before, .hungry-blog-title a:hover, .hungry-blog-author a:hover, .widget-hungry-latest-recipes .latest-recipes a:hover, a.hungry-menu-item-header:hover .hungry-menu-item-title, .not-found-title, #site-footer .widget ul li a:hover, #site-footer .widget-hungry-latest-recipes .latest-recipes a:hover {color: #61d6cc;}button:hover, input[type="reset"]:hover, input[type="submit"]:hover, input[type="button"]:hover, .widget_calendar tbody a, .mobile-close:hover, .image-hover .image-hover-overlay, .post-tags a:hover, .tagcloud a:hover, .post-navigation a:hover, .navigation.pagination a:hover, .navigation.comment-navigation a:hover, .edit-link a:hover, .post-author-tag, .post-author-tag:before, .comment-reply-link:hover, .hungry-staff-member-social-icons li a, .special .hungry-menu-item-price, .ui-datepicker .ui-datepicker-header, #btt:hover, #hungry-reservation-form input[type="submit"]:hover {background: #61d6cc;}.mobile-header { border-top: 3px solid #ccad52; }.bypostauthor > .comment-author-avatar, .widget-hungry-latest-recipes .latest-recipes a .recipe-thumbnail img:hover, #site-footer .widget-hungry-latest-recipes .latest-recipes a .recipe-thumbnail img:hover {border: 3px solid #61d6cc;}.hungry-staff-member-social-icons li a { border: 1px solid #61d6cc; }.post-meta i:before, .widget-hungry-contact-details i:before { text-shadow: 1px 1px 0 #61d6cc; }.sf-menu a:hover, .site-navbar.short .sf-menu a:hover  {-webkit-box-shadow: inset 0 2px 0 #61d6cc;-moz-box-shadow: inset 0 2px 0 #61d6cc;box-shadow: inset 0 2px 0 #61d6cc; }blockquote, .sf-menu ul li a:hover, .site-navbar.short .sf-menu ul li a:hover {-webkit-box-shadow: inset 2px 0 0 #61d6cc;-moz-box-shadow: inset 2px 0 0 #61d6cc;box-shadow: inset 2px 0 0 #61d6cc; }.hungry-preloader span { background: #61d6cc; }@-moz-keyframes bubble-anim { 0% { width: 13px; height: 13px; background-color: #61d6cc; -moz-transform: translateY(0); }  100% { width: 30px; height: 30px; background-color: #f1f1f1; -moz-transform: translateY(-26px); } }@-webkit-keyframes bubble-anim { 0% { width: 13px; height: 13px; background-color: #61d6cc; -webkit-transform: translateY(0); } 100% { width: 30px; height: 30px; background-color: #f1f1f1; -webkit-transform: translateY(-26px); } }@-ms-keyframes bubble-anim { 0% { width: 13px; height: 13px; background-color: #61d6cc;  -ms-transform: translateY(0); } 100% { width: 30px; height: 30px; background-color: #f1f1f1; -ms-transform: translateY(-26px); } }@-o-keyframes bubble-anim { 0% { width: 13px; height: 13px; background-color: #61d6cc; -o-transform: translateY(0); } 100% { width: 30px; height: 30px; background-color: #f1f1f1; -o-transform: translateY(-26px); } }@keyframes bubble-anim { 0% { width: 13px; height: 13px; background-color: #61d6cc;  transform: translateY(0); } 100% { width: 30px; height: 30px; background-color: #f1f1f1; transform: translateY(-26px); } }.sf-menu a { color: #ffffff; }#hungry-about-us {padding-top: 140px;padding-bottom: 120px;}#hungry-testimonials {padding-top: 140px;padding-bottom: 140px;background-color: #252525;background-image: url(http://www.reveillondosmilagres.com.br/wp-content/themes/hungry-theme/images/defaults/parallax-01.jpg);background-attachment: fixed;background-repeat: repeat;background-size: inherit;background-position: center center;}#hungry-menu {padding-top: 140px;padding-bottom: 50px;}#hungry-slogan-01 {padding-top: 140px;padding-bottom: 140px;}@media screen and (max-width: 1024px) { #hungry-slogan-01 {background-color: #252525;background-image: url(http://site.reveillondosmilagres.com.br/wp-content/uploads/2015/07/para-.jpg) !important;background-attachment: fixed;background-repeat: repeat;background-size: inherit;background-position: center center;} }#hungry-slogan-02 {padding-top: 70px;padding-bottom: 70px;background-color: #282828;background-image: url(http://site.reveillondosmilagres.com.br/wp-content/uploads/2015/07/slide221.jpg);background-attachment: fixed;background-repeat: repeat;background-size: cover;background-position: center bottom;}@media screen and (max-width: 1024px) { #hungry-slogan-02 {background-color: #282828;background-image: url(http://site.reveillondosmilagres.com.br/wp-content/uploads/2015/07/slide221.jpg);background-attachment: fixed;background-repeat: repeat;background-size: cover;background-position: center bottom;} }#hungry-slogan-03 {padding-top: 140px;padding-bottom: 140px;background-color: #252525;background-image: url(http://www.reveillondosmilagres.com.br/wp-content/themes/hungry-theme/images/defaults/parallax-03.jpg);background-attachment: fixed;background-repeat: repeat;background-size: inherit;background-position: center center;}@media screen and (max-width: 1024px) { #hungry-slogan-03 {background-color: #252525;background-image: url(http://www.reveillondosmilagres.com.br/wp-content/themes/hungry-theme/images/defaults/parallax-03.jpg);background-attachment: fixed;background-repeat: repeat;background-size: inherit;background-position: center center;} }#hungry-slogan-04 {padding-top: 140px;padding-bottom: 140px;background-color: #252525;background-image: url(http://www.reveillondosmilagres.com.br/wp-content/themes/hungry-theme/images/defaults/parallax-02.jpg);background-attachment: fixed;background-repeat: repeat;background-size: inherit;background-position: center center;}@media screen and (max-width: 1024px) { #hungry-slogan-04 {background-color: #252525;background-image: url(http://www.reveillondosmilagres.com.br/wp-content/themes/hungry-theme/images/defaults/parallax-02.jpg);background-attachment: fixed;background-repeat: repeat;background-size: inherit;background-position: center center;} }#hungry-staff {padding-top: 140px;padding-bottom: 140px;}#hungry-gallery {padding-top: 100px;padding-bottom: 120px;}#hungry-blog {padding-top: 140px;padding-bottom: 140px;background-color: #252525;background-image: url(http://www.reveillondosmilagres.com.br/wp-content/themes/hungry-theme/images/defaults/parallax-04.jpg);background-attachment: fixed;background-repeat: repeat;background-size: inherit;background-position: center center;}#hungry-reservations {padding-top: 140px;padding-bottom: 140px;}
+
+    /* -- Custom CSS -- */
+    #hungry-about-us, #hungry-menu, #hungry-staff{
+     background-image: url(http://www.reveillondosmilagres.com.br/wp-content/uploads/2015/07/bg-eventos.jpg);
+    }
+
+    #hungry-custom-section-423, #hungry-custom-section-536{
+     background-image: url(http://www.reveillondosmilagres.com.br/wp-content/uploads/2015/07/bg-eventos-2.jpg);
+    }
+
+    #hungry-custom-section-423, #hungry-custom-section-536{
+    padding: 100px 0;
+    }
+
+    #hungry-custom-section-536{
+        padding-top:100px;
+        padding-bottom:70px;
+    }
+
+    #single-page-header .single-page-social-icons-list{
+     display: none;
+    }
+
+    .reveillon-logo{
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      margin-top: -92px;
+      margin-left: -244px;
+      max-width: 488px;
+    }
+    #hungry-reservations{
+        background-image: url(http://www.reveillondosmilagres.com.br/wp-content/uploads/2015/07/bg-contato.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: 50%;
+    }
+
+    #hungry-custom-section-548{
+      background-image: url(http://www.reveillondosmilagres.com.br/wp-content/uploads/2015/07/bg-eventos-2.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: 50%;
+    }
+
+    #hungry-gallery{
+    background-image: url(http://www.reveillondosmilagres.com.br/wp-content/uploads/2015/07/galery-bg.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: 50%;
+    }
+
+    #hungry-custom-section-569{
+        background-image: url(http://www.reveillondosmilagres.com.br/wp-content/uploads/2015/07/bgg.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 50%;
+    }
+
+    #hungry-custom-section-597{
+    background-image: url(http://www.reveillondosmilagres.com.br//wp-content/themes/hungry-theme/images/assets/esseano.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: 50%;
+      height: 650px;
+    }
+
+    #hungry-custom-section-536 h2{
+        font-size:72px;
+    }
+
+
+    .recentcomments a {
+      display:inline !important;padding:0 !important;margin:0 !important;
+    }
+
+    .site-logo{height:62px;width:88px;}.site-navbar.short .site-logo{height:50%;width:50%;}.site-logo, .site-title{margin-top:60px;margin-left:0;}.site-navbar.short .site-logo, .site-navbar.short .site-title{margin-top:36px;margin-left:0;}#site-footer{background-color:#5b5147;}#bottom-footer{background-color:#5b5147;}.footer-logo-image{height:38px;width:100px;}
+
+    .fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}
